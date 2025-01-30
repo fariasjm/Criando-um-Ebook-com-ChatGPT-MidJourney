@@ -14,17 +14,13 @@ Crie um título de um ebook sobre o tema "Desvendando as IAs Presentes no Nosso 
 Se quiser, posso adaptar os títulos para um tom mais técnico, acessível ou chamativo! 🚀
 
 ### Conteúdo
-- "Faça um texto para ebook, com foco em Cientista de Dados, listando as principais Áreas de Conhecimento para se tornar um cientista de dados (Matemática e Estatística, Ciência da Computação e Conhecimento das Área de Negócio)
+"Faça um texto para ebook, com foco em O ebook pode ser dividido em Introdução à Inteligência Ariticifial, Impacto da IA no Mundo e Aplicações Práticas da IA 
 
 {REGRAS}
 
-> Explique sempre de uma maneira simples
-> Deixe o texto enxuto 
-> Sempre deixe um título sugestivo por tópico"
+- O texto deve ter 5 páginas
+- Explique sempre de uma maneira simples mas com exemplos
+- Sempre deixe um título sugestivo por tópico"
 
 
-## Prompts Midjourney
-
-### Capa
-- Man walking towards a mountain on a sunny day
 
