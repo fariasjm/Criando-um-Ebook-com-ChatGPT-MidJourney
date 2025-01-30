@@ -16,12 +16,4 @@ Neste repositório, insira todos os links e arquivos necessários para seu proje
 - Salve o ebook dentro do seu repositório
 - Coloque o link do seu artigo no readme do seu github
 - Envie para gente o link do seu repositório
- 
 
-### Repositório Git
-O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo foi versionado no seguinte endereço para que você possa consultá-lo a qualquer momento:
- 
-https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook
- 
- 
-Bons estudos 😉
